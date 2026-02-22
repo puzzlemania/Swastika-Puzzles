@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 12",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "WOLVERINE",
+      "clue": "Fierce, stocky weasel also known as a carcajou.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "BUTTERFLY",
+      "clue": "Colorful insect that undergoes metamorphosis.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "WHALE",
+      "clue": "Massive marine mammal known for blowing spray.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 4,
+      "word": "CRANE",
+      "clue": "Tall, long-legged, long-necked bird.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "SQUAB",
+      "clue": "Young pigeon often used in culinary dishes.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "YAPOK",
+      "clue": "Only marsupial with a water-resistant pouch.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    }
+  ]
+}

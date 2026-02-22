@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 11",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "WOLVERINE",
+      "clue": "Fierce, stocky northern mammal known for its tenacity.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "BUTTERFLY",
+      "clue": "Colorful winged insect that starts as a caterpillar.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 3,
+      "word": "BISON",
+      "clue": "Large, hump-backed grazing mammal of the American plains.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 4,
+      "word": "GUPPY",
+      "clue": "Popular, colorful small tropical aquarium fish.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "MACAW",
+      "clue": "Large, long-tailed parrot with vibrant plumage.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "ELAND",
+      "clue": "Africa's largest antelope with spiraled horns.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 3",
+  "gridSize": 7,
+  "words": [
+    {
+      "id": 1,
+      "word": "SPARROW",
+      "clue": "Small brown bird often seen in city parks (7)",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "MEERKAT",
+      "clue": "Desert-dwelling mongoose that stands on guard (7)",
+      "direction": "vertical",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 3,
+      "word": "IBIS",
+      "clue": "Long-legged wading bird worshipped in ancient Egypt (4)",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "WOLF",
+      "clue": "Wild canine that lives and hunts in a pack (4)",
+      "direction": "vertical",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "id": 5,
+      "word": "MOTH",
+      "clue": "Night-flying insect often attracted to a light (4)",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 6,
+      "word": "NEWT",
+      "clue": "Small, tailed amphibian that lives in water and on land (4)",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

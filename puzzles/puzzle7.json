@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 7",
+  "gridSize": 11,
+  "words": [
+    {
+      "id": 1,
+      "word": "MOCKINGBIRD",
+      "clue": "Singer that imitates other birds.",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "HUMMINGBIRD",
+      "clue": "Small bird capable of hovering in mid-air.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "id": 3,
+      "word": "POSSUM",
+      "clue": "Nocturnal marsupial known to play dead.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "DONKEY",
+      "clue": "Stubborn beast of burden.",
+      "direction": "vertical",
+      "row": 5,
+      "col": 10
+    },
+    {
+      "id": 5,
+      "word": "HORNET",
+      "clue": "Large, stinging winged insect.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "id": 6,
+      "word": "LIZARD",
+      "clue": "Reptile that basks in the sun.",
+      "direction": "horizontal",
+      "row": 10,
+      "col": 0
+    }
+  ]
+}

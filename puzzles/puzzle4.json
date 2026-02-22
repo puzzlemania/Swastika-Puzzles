@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 4",
+  "gridSize": 7,
+  "words": [
+    {
+      "id": 1,
+      "word": "SPARROW",
+      "clue": "Small, chirping percher often seen in flocks.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 2,
+      "word": "MEERKAT",
+      "clue": "African savanna digger with a sentry-like posture",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "CLAM",
+      "clue": "Bivalve mollusk that can be Happy or a Steamer",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "TANG",
+      "clue": "Distinctive, sharp, or pungent taste; also a vibrant reef fish",
+      "direction": "vertical",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "id": 5,
+      "word": "CROW",
+      "clue": "Intelligent black bird that makes a caw sound",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "SWAN",
+      "clue": "Large, graceful bird with a long neck and white feathers",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

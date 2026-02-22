@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 5",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "SABLEFISH",
+      "clue": "Rich, white-fleshed North Pacific delicacy also known as black cod.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "BUTTERFLY",
+      "clue": "Insect that undergoes metamorphosis, or a swimmer’s stroke.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "SQUID",
+      "clue": "Ten-armed cephalopod often served fried as calamari.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 4,
+      "word": "FINCH",
+      "clue": "Small seed-eating passerine bird often kept in a cage.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "SQUAB",
+      "clue": "A young, unfledged pigeon, often served as a delicacy.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "YAPOK",
+      "clue": "A South American opossum that is the only marsupial with webbed hind feet.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    }
+  ]
+}

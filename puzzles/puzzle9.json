@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 9",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "ARGENTINA",
+      "clue": "Second-largest country in South America, home to the tango.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "INDONESIA",
+      "clue": "Southeast Asian nation with over 17,000 islands, including Bali.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 3,
+      "word": "INDIA",
+      "clue": "South Asian nation known for its diverse culture and, historically, the Taj Mahal.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 4,
+      "word": "SYRIA",
+      "clue": "Middle Eastern nation with a capital at Damascus.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "KENYA",
+      "clue": " East African country known for safari adventures and the Maasai Mara.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "ARUBA",
+      "clue": "Caribbean island nation known for its white-sand beaches.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    }
+  ]
+}

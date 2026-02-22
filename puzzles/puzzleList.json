@@ -1,0 +1,16 @@
+{
+  "puzzles": [
+    "./puzzles/puzzle1.json",
+    "./puzzles/puzzle2.json",
+    "./puzzles/puzzle3.json",
+    "./puzzles/puzzle4.json",
+    "./puzzles/puzzle5.json",
+    "./puzzles/puzzle6.json",
+    "./puzzles/puzzle7.json",
+    "./puzzles/puzzle8.json",
+    "./puzzles/puzzle9.json",
+    "./puzzles/puzzle10.json",
+    "./puzzles/puzzle11.json",
+    "./puzzles/puzzle12.json"
+  ]
+}

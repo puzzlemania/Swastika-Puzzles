@@ -1,0 +1,128 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+/* LAYOUT */
+.layout {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+/* CLUE PANELS */
+.clue-panel {
+  width: 220px;
+  text-align: left;
+}
+
+.clue-panel h3 {
+  text-align: center;
+}
+
+.clue-panel ol {
+  padding-left: 20px;
+}
+
+/* GRID */
+#grid {
+  display: grid;
+  gap: 0;
+  border: 5px solid #111;
+  width: fit-content;
+}
+
+/* LETTER CELLS */
+.cell {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #444;
+  background: white;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.cell input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  text-align: center;
+  font-size: 20px;
+  outline: none;
+}
+
+/* BLACK CELLS */
+.black-cell {
+  width: 40px;
+  height: 40px;
+  background: #000;
+  border: none;
+}
+
+/* CELL NUMBERS */
+.cell-number {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+/* BUTTONS */
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:nth-child(1) {
+  background: #007bff;
+  color: white;
+}
+
+button:nth-child(2) {
+  background: #dc3545;
+  color: white;
+}
+
+/* FEEDBACK COLORS */
+.correct {
+  background-color: #9cff9c !important;
+}
+
+.wrong {
+  background-color: #ff9c9c !important;
+}
+
+.incomplete {
+  background-color: #ffc97a !important;
+}
+
+/* POPUP */
+#messagePopup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  justify-content: center;
+  align-items: center;
+}
+
+#messagePopup div {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}

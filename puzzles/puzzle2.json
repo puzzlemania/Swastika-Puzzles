@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 2",
+  "gridSize": 5,
+  "words": [
+    {
+      "id": 1,
+      "word": "TIGER",
+      "clue": "Striped jungle predator (5)",
+      "direction": "horizontal",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "EAGLE",
+      "clue": "Sharp-eyed bird of prey (5)",
+      "direction": "vertical",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "id": 3,
+      "word": "BAT",
+      "clue": "Nocturnal flying mammal (3)",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "EEL",
+      "clue": "Slimy, snake-like fish (3)",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "id": 5,
+      "word": "ROE",
+      "clue": "Small, agile European deer species",
+      "direction": "vertical",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "id": 6,
+      "word": "BEE",
+      "clue": " Buzzing honey producer (3) ",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Crossword Puzzle</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 id="puzzleTitle">Crossword Puzzle</h1>
+
+<select id="puzzleSelect" onchange="loadPuzzle()">
+  <option value="">Select Puzzle</option>
+</select>
+
+<div id="timer">Time: 0:00</div>
+
+<div class="layout">
+
+  <!-- LEFT SIDE - ACROSS -->
+  <div class="clue-panel">
+    <h3>Across</h3>
+    <ol id="acrossClues"></ol>
+  </div>
+
+  <!-- CENTER - GRID -->
+  <div id="grid"></div>
+
+  <!-- RIGHT SIDE - DOWN -->
+  <div class="clue-panel">
+    <h3>Down</h3>
+    <ol id="downClues"></ol>
+  </div>
+
+</div>
+
+<div class="buttons">
+  <button onclick="checkPuzzle()">Check</button>
+  <button onclick="giveUp()">Give Up</button>
+</div>
+
+<!-- Popup -->
+<div id="messagePopup">
+  <div>
+    <p id="messageText"></p>
+    <button onclick="closePopup()">Close</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

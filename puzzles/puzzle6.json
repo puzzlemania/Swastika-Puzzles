@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 6",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "SABLEFISH",
+      "clue": "Mild-flavored, oily Black cod",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "WOLVERINE",
+      "clue": "Fierce, stocky weasel relative known as a Carcajou",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "MACAW",
+      "clue": "Large, long-tailed, and colorful Neotropical parrot",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "EAGLE",
+      "clue": "Sharp-eyed bird of prey often symbolizing freedom",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    },
+    {
+      "id": 5,
+      "word": "SNAIL",
+      "clue": "Slow-moving shelled gastropod often served as escargot",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 6,
+      "word": "SLOTH",
+      "clue": "Extremely slow-moving arboreal mammal of tropical forests",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

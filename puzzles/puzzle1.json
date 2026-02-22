@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 1",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "CHIHUAHUA",
+      "clue": "Tiny Mexican dog breed known for being a Purse pet.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "PORCUPINE",
+      "clue": "Rodent with quills that acts as a walking pincushion.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "CAMEL",
+      "clue": "Desert beast with one or two humps on its back.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 4,
+      "word": "KOALA",
+      "clue": "Australian marsupial that feeds exclusively on eucalyptus leaves.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "SHEEP",
+      "clue": "Common farm animal that provides wool and says Baa.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "ELAND",
+      "clue": "Large African antelope with spiraled horns and a shoulder hump.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    }
+  ]
+}

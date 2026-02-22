@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 10",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "AUSTRALIA",
+      "clue": "Southern land down under",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "NICARAGUA",
+      "clue": "Central American nation with Managua as its capital",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 3,
+      "word": "NEPAL",
+      "clue": "Himalayan nation home to Mount Everest",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 4,
+      "word": "CHINA",
+      "clue": "Nation with the Great Wall and a giant panda",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "GHANA",
+      "clue": "West African nation, formerly the Gold Coast",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "ARUBA",
+      "clue": "Caribbean island known as - One Happy Island",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    }
+  ]
+}

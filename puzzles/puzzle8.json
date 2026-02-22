@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 8",
+  "gridSize": 7,
+  "words": [
+    {
+      "id": 1,
+      "word": "PENGUIN",
+      "clue": "Flightless bird frequently seen in a tuxedo.",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "MONGREL",
+      "clue": "A mixed-breed canine, often called a mutt.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 3,
+      "word": "MARE",
+      "clue": "Female horse, often paired with a stallion.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 4,
+      "word": "BULL",
+      "clue": "Male animal that is the opposite of a cow.",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "WASP",
+      "clue": "Pesky winged insect known for its sting.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "NEWT",
+      "clue": "Small amphibious creature often found in the water.",
+      "direction": "vertical",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}
