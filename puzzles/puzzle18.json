@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 18",
+  "gridSize": 11,
+  "words": [
+    {
+      "id": 1,
+      "word": "HUMMINGBIRD",
+      "clue": "A tiny, nectar-drinking bird known for its rapid wing beats and ability to hover.",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "MOCKINGBIRD",
+      "clue": "A vocal songbird famous for mimicking the calls of other species.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "id": 3,
+      "word": "AKBASH",
+      "clue": "A large, white-coated livestock guardian dog breed originating from Turkey.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "DONKEY",
+      "clue": "A domesticated hoofed mammal in the horse family with long ears and a loud bray.",
+      "direction": "vertical",
+      "row": 5,
+      "col": 10
+    },
+    {
+      "id": 5,
+      "word": "MAGPIE",
+      "clue": "A clever, long-tailed black-and-white bird often associated with collecting shiny objects.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "id": 6,
+      "word": "LIZARD",
+      "clue": "A scaly-skinned reptile with four legs and a tail, often found sunning on rocks.",
+      "direction": "horizontal",
+      "row": 10,
+      "col": 0
+    }
+  ]
+}

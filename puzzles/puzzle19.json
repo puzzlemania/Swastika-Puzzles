@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 19",
+  "gridSize": 7,
+  "words": [
+    {
+      "id": 1,
+      "word": "MONGREL",
+      "clue": "A dog of mixed breed",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "PENGUIN",
+      "clue": "Flightless black-and-white Antarctic bird",
+      "direction": "vertical",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 3,
+      "word": "CLAM",
+      "clue": "Bivalve shellfish often found in the sand",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "LYNX",
+      "clue": "A wild cat with tufted ears",
+      "direction": "vertical",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "id": 5,
+      "word": "PUMA",
+      "clue": "Large American wild cat also known as a cougar",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 6,
+      "word": "SWAN",
+      "clue": " Long-necked, graceful white water bird",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

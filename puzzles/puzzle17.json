@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 17",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "SURMULLET",
+      "clue": "Red goatfish often eaten in the Mediterranean.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "BINTURONG",
+      "clue": "Asian civet also known as a bearcat.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "SQUAB",
+      "clue": "A young pigeon, often used for food.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "GUPPY",
+      "clue": "Small, colorful, live-bearing tropical aquarium fish.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    },
+    {
+      "id": 5,
+      "word": "SQUID",
+      "clue": "Ten-armed marine cephalopod, cousin to the cuttlefish.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 6,
+      "word": "TROUT",
+      "clue": "Freshwater game fish often caught with flies.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

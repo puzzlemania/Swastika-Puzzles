@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 14",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "ALLIGATOR",
+      "clue": "Large crocodilian reptile native to the Southeastern U.S.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "ORANGUTAN",
+      "clue": "Arboreal great ape often called the - Man of the forest ",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "DINGO",
+      "clue": "Wild dog found in the Australian outback",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "NYALA",
+      "clue": "Spiral-horned African antelope",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    },
+    {
+      "id": 5,
+      "word": "ADDAX",
+      "clue": "Saharan antelope with long, twisted horns",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 6,
+      "word": "VIPER",
+      "clue": "Venomous snake such as an adder or rattlesnake",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

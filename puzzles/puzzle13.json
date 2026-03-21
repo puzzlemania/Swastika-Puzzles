@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 13",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "ALLIGATOR",
+      "clue": "Large reptile with a wide snout often found in swamps.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "ORANGUTAN",
+      "clue": "Long-armed, reddish-haired ape from Borneo or Sumatra.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 3,
+      "word": "KOALA",
+      "clue": "Tree-dwelling Australian marsupial that loves eucalyptus.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "RHINO",
+      "clue": "Horned African giant known for its thick skin.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    },
+    {
+      "id": 5,
+      "word": "OTTER",
+      "clue": "Sleek, semi-aquatic mammal known for being very playful.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 6,
+      "word": "KULAN",
+      "clue": ": Rare wild horse-like mammal native to Central Asia.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

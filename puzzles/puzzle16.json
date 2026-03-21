@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 16",
+  "gridSize": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "CROCODILE",
+      "clue": "Large, snapping reptile found in tropical waters.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "DRAGONFLY",
+      "clue": "Aerial insect with four transparent wings and a long body.",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "SQUID",
+      "clue": "Ten-limbed marine cephalopod that produces ink.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "YABBY",
+      "clue": "Australian freshwater crayfish or lobster.",
+      "direction": "vertical",
+      "row": 4,
+      "col": 8
+    },
+    {
+      "id": 5,
+      "word": "COBRA",
+      "clue": "Venomous snake that can flatten its neck into a hood.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "id": 6,
+      "word": "EAGLE",
+      "clue": "Large, sharp-eyed bird of prey.",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

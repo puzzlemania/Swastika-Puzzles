@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 21",
+  "gridSize": 5,
+  "words": [
+    {
+      "id": 1,
+      "word": "LLAMA",
+      "clue": "South American camelid used as a pack animal",
+      "direction": "horizontal",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "PRAWN",
+      "clue": "Large edible crustacean often mistaken for a shrimp",
+      "direction": "vertical",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "id": 3,
+      "word": "OWL",
+      "clue": "Nocturnal bird known for its hooting sound",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "ANT",
+      "clue": "Tiny, hard-working insect that lives in a colony",
+      "direction": "vertical",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "id": 5,
+      "word": "PIG",
+      "clue": "Farm animal with a snout, often raised for bacon",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "id": 6,
+      "word": "HEN",
+      "clue": "Female chicken kept for laying eggs",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

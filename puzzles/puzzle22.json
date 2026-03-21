@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 22",
+  "gridSize": 13,
+  "words": [
+    {
+      "id": 1,
+      "word": "KOMODO DRAGON",
+      "clue": "The world's largest living lizard",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "SILVER DOLLAR",
+      "clue": "Aquarium fish with a circular shape",
+      "direction": "vertical",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "id": 3,
+      "word": "SEAGULL",
+      "clue": "Common coastal bird",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "id": 4,
+      "word": "NARWHAL",
+      "clue": "Arctic whale with a long, spiraled tusk",
+      "direction": "vertical",
+      "row": 6,
+      "col": 12
+    },
+    {
+      "id": 5,
+      "word": "PEACOCK",
+      "clue": "Bird known for its iridescent tail feathers",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "PANTHER",
+      "clue": "Black-furred leopard or jaguar",
+      "direction": "horizontal",
+      "row": 12,
+      "col": 0
+    }
+  ]
+}

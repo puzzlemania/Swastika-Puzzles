@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 20",
+  "gridSize": 5,
+  "words": [
+    {
+      "id": 1,
+      "word": "WHALE",
+      "clue": "Massive marine mammal that's known for having a blowhole",
+      "direction": "horizontal",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "PRAWN",
+      "clue": "Small, many-legged crustacean often served grilled or in a cocktail",
+      "direction": "vertical",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "id": 3,
+      "word": "COW",
+      "clue": "Common farm animal that provides milk and says Moo",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "EMU",
+      "clue": "Large, flightless bird from Australia that is a fast runner",
+      "direction": "vertical",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "id": 5,
+      "word": "PIG",
+      "clue": "Pink, curly-tailed livestock animal that enjoys wallowing in mud",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "id": 6,
+      "word": "HEN",
+      "clue": "Female feathered friend that provides the world with fresh eggs",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

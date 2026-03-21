@@ -1,0 +1,55 @@
+{
+  "id": "customPuzzle",
+  "title": "Swastika Puzzle 15",
+  "gridSize": 7,
+  "words": [
+    {
+      "id": 1,
+      "word": "SPARROW",
+      "clue": "Common small brownish-grey songbird.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 2,
+      "word": "OSTRICH",
+      "clue": "Flightless bird known for its speed and burying head myth.",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "DODO",
+      "clue": "Famous extinct flightless bird from Mauritius.",
+      "direction": "vertical",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "HAWK",
+      "clue": "Sharp-eyed bird of prey often used in falconry.",
+      "direction": "vertical",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "id": 5,
+      "word": "SWAN",
+      "clue": "Graceful white waterbird with a long, curved neck.",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "id": 6,
+      "word": "CROW",
+      "clue": "Intelligent black bird often seen in large, noisy groups.",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}
